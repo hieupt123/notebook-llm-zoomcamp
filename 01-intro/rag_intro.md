@@ -1,5 +1,6 @@
 # rag-intro
 1. RAG
+
 ![rag](assets/rag.png)
 
 Youtube: [link](https://www.youtube.com/watch?v=olvem333Bqo&t=107s)
